@@ -1,4 +1,4 @@
-# Preview Simple Notes Frontend
+
 
 ## Cara Menjalankan Proyek
 
@@ -36,6 +36,8 @@ ng serve
 Buka browser Anda dan akses:  
  [http://localhost:4200/](http://localhost:4200/)  
 Aplikasi akan otomatis **reload** jika Anda mengubah file sumber.
+
+# Preview Simple Notes Frontend
 
 List kosong
 
